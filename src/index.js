@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Hello world!</h2>
+    <h2>Hello world!1!</h2>
   </div>
 );
 
