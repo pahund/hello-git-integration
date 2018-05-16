@@ -4,13 +4,12 @@ import Hello from './Hello';
 
 const styles = {
   fontFamily: 'sans-serif',
-  textAlign: 'center',
+  textAlign: 'center'
 };
-
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Hello world!1!</h2>
+    <h2>Hello world!</h2>
   </div>
 );
 
